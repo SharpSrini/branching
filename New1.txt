@@ -1,0 +1,3 @@
+This is my new file
+I am Srinivasan
+I am working with git
